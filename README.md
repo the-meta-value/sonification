@@ -1,4 +1,4 @@
-## 📌  As of mid-2023 , development on TwoTone has been paused.
+
 
 ## You can still run the latest MIDI out beta version at https://twotone-midiout-beta.netlify.app/
 
